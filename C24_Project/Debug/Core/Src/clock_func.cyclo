@@ -1,0 +1,11 @@
+../Core/Src/clock_func.c:53:6:value_changed	2
+../Core/Src/clock_func.c:63:6:alarm_changed	2
+../Core/Src/clock_func.c:71:6:update_change	2
+../Core/Src/clock_func.c:86:6:update_change_choose	2
+../Core/Src/clock_func.c:192:6:HAL_TIM_IC_CaptureCallback	2
+../Core/Src/clock_func.c:201:6:HAL_GPIO_EXTI_Callback	13
+../Core/Src/clock_func.c:241:6:alarm_buzzer	2
+../Core/Src/clock_func.c:255:6:screen_init	1
+../Core/Src/clock_func.c:301:6:re_screen_init	1
+../Core/Src/clock_func.c:498:19:man_hinh_chinh	1
+../Core/Src/clock_func.c:339:6:app_main	56

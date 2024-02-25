@@ -1,0 +1,5 @@
+../Core/Src/rotary_encoder.c:6:13:RE_ClockwiseCallback	1
+../Core/Src/rotary_encoder.c:10:13:RE_CounterClockwiseCallback	1
+../Core/Src/rotary_encoder.c:15:6:RE_Init	1
+../Core/Src/rotary_encoder.c:23:13:RE_GetValue	2
+../Core/Src/rotary_encoder.c:36:6:RE_Handle	4

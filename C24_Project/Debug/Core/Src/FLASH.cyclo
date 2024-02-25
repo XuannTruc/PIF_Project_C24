@@ -1,0 +1,5 @@
+../Core/Src/FLASH.c:9:6:flash_unlock	1
+../Core/Src/FLASH.c:14:6:flash_lock	1
+../Core/Src/FLASH.c:19:6:flash_eraser	1
+../Core/Src/FLASH.c:30:6:flash_write_arr	2
+../Core/Src/FLASH.c:38:6:flash_read	2
